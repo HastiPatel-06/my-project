@@ -1,1 +1,2 @@
 another text file is going to add as a second commit.
+adding line as separated from master branch. 
